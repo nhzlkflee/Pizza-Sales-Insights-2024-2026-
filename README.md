@@ -1,3 +1,7 @@
+![Screenshot 2025-05-29 001047](https://github.com/user-attachments/assets/beb33d80-e2f2-4742-a804-fa1d39f9dd46)
+
+
+
 # Project: Sales and Revenue Insights from Pizza Sales Data (2024-2026)
 ---
 ### 📘 Description
