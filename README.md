@@ -1,10 +1,10 @@
-# Project: Enhanced Pizza Sales Data (2024-2025)
+# Project: Sales and Revenue Insights from Pizza Sales Data (2024-2026)
 ---
-### Description
-This project aims to uncover insights from a fictional pizza store's sales data spanning from 2024 to 2025. Through exploratory data analysis (EDA) and effective visualization techniques, the project will identify patterns in pizza sales, customer behavior, and revenue trends. The ultimate goal is to deliver actionable insights for business decision-making using data storytelling.
+### 📘 Description
+This project aims to uncover insights from a fictional pizza store's sales data spanning from 2024 to 2026. Through exploratory data analysis (EDA) and effective visualization techniques, the project will identify patterns in pizza sales, customer behavior, and revenue trends. The ultimate goal is to deliver actionable insights for business decision-making using data storytelling.
 
 ---
-### Goals
+### 🧠 Project Goals
 - Explore the structure and quality of the dataset.
 - Analyze key metrics such as total sales, revenue, best-selling products, and seasonal trends.
 - Visualize important business KPIs to support operational and strategic decisions.
@@ -12,7 +12,7 @@ This project aims to uncover insights from a fictional pizza store's sales data 
 
 
 ---
-### Dataset
+### 📊 Dataset
 |Column Name | Description |
 |------------|-------------|
 |Order_Id | Unique identifier for each order |
@@ -27,19 +27,10 @@ This project aims to uncover insights from a fictional pizza store's sales data 
 |Toppings | List of toppings (where applicable) |
 
 ---
-### Usage Ideas
+### 📌 Usage Idea
 - 📈 Sales Analysis & Reporting
-- 🧠 Machine Learning Models (demand forecasting, recommendations)
-- 📅 Time Series Forecasting
-- 📊 Data Visualization Projects
-- 🍽️ Customer Behavior Analysis
-- 🛒 Market Basket Analysis
-- 📦 Inventory Management Simulations
+
 
 ---
-### Expected Learning Outcomes
-- Strengthen EDA skills using statistical and visual techniques.
-- Improve data cleaning and preprocessing capabilities.
-- Understand how to extract sales and revenue insights from raw transaction data.
-- Gain experience in building interactive dashboards using Excel or Power BI.
-- Learn how to communicate findings through data storytelling.
+### 📊 Outcomes
+The dashboard reveals that the pizza business generated steady revenue with 1,004 total orders and $18K in sales, driven mainly by Cheese and Non-Veg pizzas, with Medium size being the most preferred. While weekday orders dominate, a notable portion comes from weekends, offering room for targeted promotions. California leads in city-wise sales, and July marks the highest order volume, suggesting seasonal spikes. However, delivery delays—averaging over 17 minutes—highlight a key operational issue, especially for complex orders. Overall, the insights support data-driven decisions to optimize marketing, menu offerings, and delivery efficiency.
